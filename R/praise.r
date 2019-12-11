@@ -3,7 +3,6 @@
 #' @param name Who to praise
 #'
 #' @param punctuation What to end in.
-#' @param potato why not
 #'
 #' @author Dale Maschette
 #'

@@ -10,8 +10,6 @@ praise(name, punctuation)
 \item{name}{Who to praise}
 
 \item{punctuation}{What to end in.}
-
-\item{potato}{why not}
 }
 \value{
 Text string with praise
